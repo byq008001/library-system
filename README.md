@@ -27,6 +27,8 @@
 <img width="865" height="469" alt="image" src="https://github.com/user-attachments/assets/6b4af81e-1144-4104-8111-09e08bb8280d" />
 <img width="865" height="469" alt="image" src="https://github.com/user-attachments/assets/d089e62e-c72d-44f6-98db-3d9fcf461429" />
 <img width="865" height="470" alt="image" src="https://github.com/user-attachments/assets/cde96320-9ca0-456e-af99-c627752bc6cf" />
+<img width="865" height="465" alt="image" src="https://github.com/user-attachments/assets/ef166677-411d-483f-a601-5904fd64ba8d" />
+<img width="865" height="465" alt="image" src="https://github.com/user-attachments/assets/303bd31a-b5c1-45ba-9371-0c8667c8aecc" />
 
 读者端
 <img width="594" height="1145" alt="image" src="https://github.com/user-attachments/assets/d87a430c-95e1-4190-b2f2-c015ce598597" />
@@ -38,4 +40,6 @@
 <img width="588" height="1172" alt="image" src="https://github.com/user-attachments/assets/155eda91-f0a7-46b2-8156-0fe2e49670f3" />
 <img width="580" height="1170" alt="image" src="https://github.com/user-attachments/assets/21901adf-82a5-4f7b-96f6-fb2b3140bf33" />
 <img width="586" height="1178" alt="image" src="https://github.com/user-attachments/assets/a3874ee2-281a-4a70-bec4-75d08663174a" />
+<img width="575" height="1023" alt="image" src="https://github.com/user-attachments/assets/f19eaf17-c1c8-40d6-9efd-7b84f5ed582e" />
+<img width="588" height="1177" alt="image" src="https://github.com/user-attachments/assets/f77ae1c0-0ebd-47d5-9f6c-a7b1237e2af9" />
 
