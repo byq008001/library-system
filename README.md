@@ -1,6 +1,5 @@
 # library-system
-技术架构
-springboot mybatisplus mysql javafx
+
 表结构
 <img width="357" height="496" alt="image" src="https://github.com/user-attachments/assets/4672fb62-e577-4386-a10b-d4563dba8853" />
 
