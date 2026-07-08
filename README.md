@@ -32,6 +32,7 @@
 <img width="865" height="465" alt="image" src="https://github.com/user-attachments/assets/303bd31a-b5c1-45ba-9371-0c8667c8aecc" />
 <img width="1912" height="1046" alt="image" src="https://github.com/user-attachments/assets/5e152342-ee87-4519-bc29-325f58405116" />
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/ee7d7612-3f41-4fbf-9a7c-753f80050bf9" />
+<img width="1911" height="1037" alt="image" src="https://github.com/user-attachments/assets/1692f7c4-91e7-42a1-9089-b1be02c3f6d4" />
 
 读者端
 <img width="594" height="1145" alt="image" src="https://github.com/user-attachments/assets/d87a430c-95e1-4190-b2f2-c015ce598597" />
