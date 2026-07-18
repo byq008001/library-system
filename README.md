@@ -59,11 +59,10 @@
 <img width="1906" height="916" alt="image" src="https://github.com/user-attachments/assets/14e026eb-1e4a-4316-9895-33192f55e543" />
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/e9d46161-4af9-40e3-93b4-4a6271528655" />
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/094925cf-1575-4513-97d6-66994f261243" />
-<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/b62b3341-b117-4dd5-8071-4390dfe23c52" />
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/cb9511f5-8f18-47c0-9098-0b7c348dc5b1" />
 <img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/3e1ca84c-4ffa-4f30-acac-e44c08b16464" />
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/80f7b5c4-d37b-43cb-9ec5-015847e6f3a3" />
 <img width="1908" height="906" alt="image" src="https://github.com/user-attachments/assets/544a96b5-cdf5-41ad-bed0-cc246a36775f" />
-
 
 H5读者端
 <img width="594" height="1145" alt="image" src="https://github.com/user-attachments/assets/d87a430c-95e1-4190-b2f2-c015ce598597" />
