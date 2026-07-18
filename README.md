@@ -36,7 +36,8 @@
 <img width="1914" height="1036" alt="image" src="https://github.com/user-attachments/assets/eab0b199-789a-4792-8541-c81d6273b7fa" />
 
 图书管理系统PC网页版本
-<img width="1896" height="908" alt="image" src="https://github.com/user-attachments/assets/813f1964-b7f9-4faa-8454-0e3f9b09d956" />
+<img width="1903" height="907" alt="image" src="https://github.com/user-attachments/assets/5ccef978-38f8-45ef-8924-848435bbcf89" />
+
 <img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/4e0520e1-7e8c-4982-ad60-91dc97c02249" />
 <img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/9b78a05d-f0d3-4db6-a206-9da24c2ad5f1" />
 <img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/f501b518-b1df-447d-a3df-66508b5f1484" />
