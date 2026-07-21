@@ -69,6 +69,7 @@
 <img width="1905" height="908" alt="image" src="https://github.com/user-attachments/assets/29bcbfbe-9698-4df2-a621-ab9961ade55b" />
 <img width="1912" height="913" alt="image" src="https://github.com/user-attachments/assets/03eea868-e8a2-4eb3-9cbc-394818e389e2" />
 <img width="1315" height="697" alt="image" src="https://github.com/user-attachments/assets/4fabad9c-2acf-4061-b6a5-ec8fbcddf94c" />
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/bb52f5f5-0b93-4fb8-891f-8a262ff56a5a" />
 
 H5读者端
 <img width="594" height="1145" alt="image" src="https://github.com/user-attachments/assets/d87a430c-95e1-4190-b2f2-c015ce598597" />
