@@ -5,8 +5,7 @@
 
 
 图书管理系统PC网页版本
-<img width="1903" height="907" alt="image" src="https://github.com/user-attachments/assets/5ccef978-38f8-45ef-8924-848435bbcf89" />
-
+<img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/dc0a37b7-54f1-4125-b785-f5febcdc05a6" />
 <img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/4e0520e1-7e8c-4982-ad60-91dc97c02249" />
 <img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/9b78a05d-f0d3-4db6-a206-9da24c2ad5f1" />
 <img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/f501b518-b1df-447d-a3df-66508b5f1484" />
