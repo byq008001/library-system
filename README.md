@@ -1,8 +1,7 @@
 # library-system
 
 表结构
-<img width="642" height="659" alt="image" src="https://github.com/user-attachments/assets/ea0adf04-0465-4fb2-9686-3f7cbbb9a0e7" />
-
+<img width="363" height="744" alt="image" src="https://github.com/user-attachments/assets/3015c171-9c67-44a8-906a-7d6d7e6cf85f" />
 
 图书管理系统桌面版
 <img width="583" height="589" alt="1" src="https://github.com/user-attachments/assets/906a062b-cd3f-4bd0-9139-d85fa7d785a7" />
