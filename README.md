@@ -2,6 +2,10 @@
 
 表结构
 <img width="363" height="744" alt="image" src="https://github.com/user-attachments/assets/3015c171-9c67-44a8-906a-7d6d7e6cf85f" />
+
+大屏端
+<img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/da830105-115e-4190-9fd3-63744e9a8c58" />
+
 門戶
 <img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/bec9b7c0-4d1b-48f0-b12a-a8295c1a59a8" />
 <img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/2a938fd5-fabc-4b3d-af3e-1c633e531b30" />
@@ -14,7 +18,6 @@
 <img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/2aa0415a-5adf-4874-8854-bb1c120400d3" />
 <img width="1897" height="914" alt="image" src="https://github.com/user-attachments/assets/e9a1dfff-d238-4921-a929-7c38e37afc63" />
 <img width="1895" height="916" alt="image" src="https://github.com/user-attachments/assets/0691ef6d-b1e9-4e81-aa4d-2618fd5a598e" />
-
 
 图书管理系统PC网页版本
 <img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/dc0a37b7-54f1-4125-b785-f5febcdc05a6" />
@@ -61,7 +64,6 @@
 <img width="1904" height="910" alt="image" src="https://github.com/user-attachments/assets/6c0a3641-3e6a-4054-b94c-448a3c49c408" />
 <img width="438" height="730" alt="image" src="https://github.com/user-attachments/assets/49df28ee-fe43-4df3-b042-1c2ed2986647" />
 
-
 H5读者端
 <img width="594" height="1145" alt="image" src="https://github.com/user-attachments/assets/d87a430c-95e1-4190-b2f2-c015ce598597" />
 <img width="592" height="1189" alt="image" src="https://github.com/user-attachments/assets/c3369fa9-f20c-4f37-8bb5-bf877baaee10" />
@@ -82,7 +84,6 @@ H5读者端
 <img width="482" height="824" alt="image" src="https://github.com/user-attachments/assets/2ddc8148-1c69-42b2-a0b4-abe4cfab3bb0" />
 
 h5 改版布局
-
 <img width="443" height="735" alt="image" src="https://github.com/user-attachments/assets/7c46e47f-1035-471b-82dc-3deb35a785a9" />
 <img width="442" height="738" alt="image" src="https://github.com/user-attachments/assets/8a2d5a0a-4b68-456f-89db-aab71fa47dff" />
 <img width="447" height="731" alt="image" src="https://github.com/user-attachments/assets/753b792c-fa93-4c38-9832-fb7cf33de05c" />
