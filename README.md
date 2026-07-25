@@ -2,6 +2,18 @@
 
 表结构
 <img width="363" height="744" alt="image" src="https://github.com/user-attachments/assets/3015c171-9c67-44a8-906a-7d6d7e6cf85f" />
+門戶
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/bec9b7c0-4d1b-48f0-b12a-a8295c1a59a8" />
+<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/2a938fd5-fabc-4b3d-af3e-1c633e531b30" />
+<img width="1902" height="896" alt="image" src="https://github.com/user-attachments/assets/c8d3e5da-0608-4197-9e6d-dc66d2ba838a" />
+<img width="1900" height="917" alt="image" src="https://github.com/user-attachments/assets/a28e83b9-b8e1-46a5-b9d5-ccb02060f78d" />
+<img width="1906" height="889" alt="image" src="https://github.com/user-attachments/assets/411e70f5-72a0-428c-9f7c-048db1903794" />
+<img width="1895" height="904" alt="image" src="https://github.com/user-attachments/assets/447976d5-53f6-41d5-9ee8-a4766bbf6a78" />
+<img width="1898" height="873" alt="image" src="https://github.com/user-attachments/assets/3451ca6c-1d45-4006-94d6-af1b553d3460" />
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/c3ab6cd1-efca-4bb9-b900-49c8ae59f705" />
+<img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/2aa0415a-5adf-4874-8854-bb1c120400d3" />
+<img width="1897" height="914" alt="image" src="https://github.com/user-attachments/assets/e9a1dfff-d238-4921-a929-7c38e37afc63" />
+<img width="1895" height="916" alt="image" src="https://github.com/user-attachments/assets/0691ef6d-b1e9-4e81-aa4d-2618fd5a598e" />
 
 
 图书管理系统PC网页版本
