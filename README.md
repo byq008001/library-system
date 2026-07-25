@@ -5,9 +5,9 @@
 
 大屏端
 <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/da830105-115e-4190-9fd3-63744e9a8c58" />
-<img width="1905" height="918" alt="image" src="https://github.com/user-attachments/assets/56e298f0-e86d-4ad7-b73f-508b34cbef06" />
-<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/49a501ba-dc0f-4d2d-b684-917921af93bd" />
-
+<img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/61f9f2a5-6739-403a-9a45-1ca0a890ecd3" />
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/dd019f82-4327-4285-aa2f-2feb0b2fafc5" />
+<img width="1911" height="919" alt="image" src="https://github.com/user-attachments/assets/3ecc2a80-9e26-4264-a141-49461c073356" />
 
 門戶
 <img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/bec9b7c0-4d1b-48f0-b12a-a8295c1a59a8" />
