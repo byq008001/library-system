@@ -4,6 +4,8 @@
 <img width="363" height="744" alt="image" src="https://github.com/user-attachments/assets/3015c171-9c67-44a8-906a-7d6d7e6cf85f" />
 
 h5 全屏版
+<img width="1284" height="2778" alt="IMG_5859" src="https://github.com/user-attachments/assets/60997435-6477-4535-803c-c6878bffa3dd" />
+<img width="1284" height="2778" alt="IMG_5860" src="https://github.com/user-attachments/assets/6035df4e-de0a-46b8-8934-12837246410f" />
 <img width="1284" height="2778" alt="IMG_5849" src="https://github.com/user-attachments/assets/3e82f569-4d37-4ac4-ba78-4df489ee8483" />
 <img width="1284" height="2778" alt="IMG_5850" src="https://github.com/user-attachments/assets/2063fef9-8288-488d-9371-593e2ea1a5a6" />
 <img width="1284" height="2778" alt="IMG_5851" src="https://github.com/user-attachments/assets/3e996f8a-f08a-43b4-8c98-290e571e2f55" />
