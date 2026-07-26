@@ -3,6 +3,18 @@
 表结构
 <img width="363" height="744" alt="image" src="https://github.com/user-attachments/assets/3015c171-9c67-44a8-906a-7d6d7e6cf85f" />
 
+h5 全屏版
+<img width="1284" height="2778" alt="IMG_5849" src="https://github.com/user-attachments/assets/3e82f569-4d37-4ac4-ba78-4df489ee8483" />
+<img width="1284" height="2778" alt="IMG_5850" src="https://github.com/user-attachments/assets/2063fef9-8288-488d-9371-593e2ea1a5a6" />
+<img width="1284" height="2778" alt="IMG_5851" src="https://github.com/user-attachments/assets/3e996f8a-f08a-43b4-8c98-290e571e2f55" />
+<img width="1284" height="2778" alt="IMG_5852" src="https://github.com/user-attachments/assets/ddbdf607-7a6f-40b4-8cb5-c40a1d1f479c" />
+<img width="1284" height="2778" alt="IMG_5853" src="https://github.com/user-attachments/assets/56077f43-941e-4911-b4da-7aba6e025a81" />
+<img width="1284" height="2778" alt="IMG_5854" src="https://github.com/user-attachments/assets/d153badc-1ecd-4047-ac9d-0a2f665e6371" />
+<img width="1284" height="2778" alt="IMG_5855" src="https://github.com/user-attachments/assets/9bfa1bb9-ebaf-4a9a-ac03-b282a8f00606" />
+<img width="1284" height="2778" alt="IMG_5856" src="https://github.com/user-attachments/assets/77d104d7-5082-4af4-a30f-99a475a4115f" />
+<img width="1284" height="2778" alt="IMG_5857" src="https://github.com/user-attachments/assets/72054c7e-d8a5-4c03-a400-b110e033125f" />
+
+
 大屏端
 <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/da830105-115e-4190-9fd3-63744e9a8c58" />
 <img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/61f9f2a5-6739-403a-9a45-1ca0a890ecd3" />
