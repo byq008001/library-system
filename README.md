@@ -1,5 +1,5 @@
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/3eec0c3a-93c8-489a-a52d-c80767635f42" />
 
-<img width="1915" height="919" alt="image" src="https://github.com/user-attachments/assets/487dec29-2118-4d02-a2a7-d40e5e3e0f50" />
 
 # library-system
 
