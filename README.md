@@ -1,4 +1,6 @@
-<img width="1903" height="909" alt="image" src="https://github.com/user-attachments/assets/e03db365-4e5a-4821-88bd-cdb2f04957a4" /># library-system
+<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/38e245c8-64ec-4c6f-b2a4-b9c95707d275" />
+
+# library-system
 
 表结构
 <img width="363" height="744" alt="image" src="https://github.com/user-attachments/assets/3015c171-9c67-44a8-906a-7d6d7e6cf85f" />
