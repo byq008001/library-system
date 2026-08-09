@@ -13,7 +13,14 @@
 <img width="720" height="1544" alt="Screenshot_20260808_173129_ MoodPlan" src="https://github.com/user-attachments/assets/7e3e4d79-5c24-4398-a453-ec9d2862c411" />
 <img width="720" height="2319" alt="Screenshot_20260808_173318_ MoodPlan" src="https://github.com/user-attachments/assets/60a06ea9-3eb3-4038-9a58-5980bc4de049" />
 <img width="720" height="2017" alt="Screenshot_20260808_173337_ MoodPlan" src="https://github.com/user-attachments/assets/5749e705-30be-4d07-b3da-80e43a891ed0" />
-<img width="720" height="1544" alt="Screenshot_20260809_084041_ MoodPlan" src="https://github.com/user-attachments/assets/c5be7fa9-286b-444f-b3ce-50fec26b9d77" />
+<img width="720" height="1544" alt="Screenshot_20260809_093516_ MoodPlan" src="https://github.com/user-attachments/assets/0ffbe272-a8ba-4892-bbea-ca5937048458" />
+<img width="720" height="1544" alt="Screenshot_20260809_093635_ MoodPlan" src="https://github.com/user-attachments/assets/6685bdae-10b2-4a9b-bebe-bc11cc1c12c1" />
+<img width="720" height="1544" alt="Screenshot_20260809_093643_ MoodPlan" src="https://github.com/user-attachments/assets/9975a246-d2ea-48de-b10b-2949e8fe016d" />
+
+
+
+
+
 
 开发自己需要的软件2
 <img width="720" height="1544" alt="Screenshot_20260808_174211_player" src="https://github.com/user-attachments/assets/8b88f6c2-1cef-46b7-a24d-4f17aaa8465c" />
